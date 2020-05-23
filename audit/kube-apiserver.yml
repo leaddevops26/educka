@@ -109,4 +109,4 @@ spec:
       path: /var/log/apiserver              ###
       type: DirectoryOrCreate               ###
     name: log                               ###
-status: {
+status: {}
